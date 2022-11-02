@@ -1,0 +1,8 @@
+to place tokens, just make a new line and put a token on it, like so:
+
+token1
+token2
+token3
+and so on...
+
+remove all of this text when you prepare your own token.
